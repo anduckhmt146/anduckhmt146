@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Javascript, Python, ReactJS, NodeJS**
 
-- 🤝 I’m looking for help with **real projects**
+- 🤝 Nice to meet you 🤝
 
 - 👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduc146khmt)
 <!--
 - 📝 I regularly write articles on [my blog (available soon)](my blog (available soon))
 -->
-- 📫 How to reach me **an.nguyenduc1406@hcmut.edu.vn**
+- 📫 Contact me **an.nguyenduc1406@hcmut.edu.vn**
 <!--
 - 📄 Know about my experiences [my CV (available soon)](my CV (available soon))
 -->
