@@ -4,15 +4,15 @@
 <h3 align="left">About me:</h3>
 <p align="left">
   
--  🔭 Currently, I am a student majoring in Computer Science at **HCMUT**
+ 🔭 Currently, I am a student majoring in Computer Science at **HCMUT**
 
-- 🌱 I’m learning to become **Fullstack Developer and Data Engineer**
+🌱 I’m learning to become **Fullstack Developer and Data Engineer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduc146khmt)
+👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduc146khmt)
 <!--
 - 📝 I regularly write articles on [my blog (available soon)](my blog (available soon))
 -->
-- 📫 Contact me **ducan1406@gmail.com**
+📫 Contact me **ducan1406@gmail.com**
 <!--
 - 📄 Know about my experiences [my CV (available soon)](my CV (available soon))
 -->
