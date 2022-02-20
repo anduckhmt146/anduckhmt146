@@ -8,13 +8,13 @@
 - 🤝 I’m looking for help with **real projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduc146khmt)
-
+<!--
 - 📝 I regularly write articles on [my blog (available soon)](my blog (available soon))
-
+-->
 - 📫 How to reach me **an.nguyenduc1406@hcmut.edu.vn**
-
+<!--
 - 📄 Know about my experiences [my CV (available soon)](my CV (available soon))
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anduckhmt146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anduckhmt146" height="30" width="40" /></a>
