@@ -12,7 +12,7 @@
 <!--
 - 📝 I regularly write articles on [my blog (available soon)](my blog (available soon))
 -->
-- 📫 Contact me **an.nguyenduc1406@hcmut.edu.vn**
+- 📫 Contact me **ducan1406@gmail.com**
 <!--
 - 📄 Know about my experiences [my CV (available soon)](my CV (available soon))
 -->
