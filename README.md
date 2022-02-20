@@ -1,5 +1,5 @@
-<h4 align="center">Hi 👋, I'm Duc An</h4>
-<h4 align="center">A passionate about Web Development and Data Science from Viet Nam</h4>
+<h3 align="center">Hi 👋, I'm Duc An</h3>
+<h3 align="center">A passionate about Web Development and Data Science from Viet Nam</h3>
 
 <h3 align="left">About me:</h3>
 <p align="left">
