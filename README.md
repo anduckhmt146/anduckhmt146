@@ -6,7 +6,7 @@
   
  🔭 Currently, I am a student majoring in Computer Science at **HCMUT**
 
-🌱 I’m learning ReactJS, NodeJS, Python
+🌱 Frontend: ReactJS, Backend: NodeJS
 
 👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduc146khmt)
 <!--
