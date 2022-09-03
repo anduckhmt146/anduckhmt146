@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Duc An 👋
+# Hi, I'm Duc An 👋
 
  🔭 Currently, I am a student majoring in Computer Science at **HCMUT**<br><br>🌱 I am learning to become a Fullstack Web Developer<br><br>👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduc146khmt)<br><br>📫 Contact me: **ducan1406@gmail.com**<br>
 
