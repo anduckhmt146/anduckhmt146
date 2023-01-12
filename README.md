@@ -1,5 +1,7 @@
 # **Hello, I'm Duc An**🚀 
 
+<img width="30%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 🔭 I’m a third-year student studying Computer Science at Bach Khoa University - HCMUT, Viet Nam. 
 
 🌱 I’m currently learning Web Development with React and IBM Data Science Course.
@@ -7,6 +9,8 @@
 ❓ Ask me about anything related to MERN stack and related technologies.  
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)<br><br>
+
+<br><br>
 
 # 💻 Tech Stack
 <table><tr><td valign="top" width="20%">
