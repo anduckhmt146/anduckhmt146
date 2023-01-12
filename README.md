@@ -6,7 +6,7 @@
 
 ❓ Ask me about anything related to MERN stack and related technologies.  
 
-👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduc146khmt)<br><br>
+👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduckhmt146)<br><br>
 
 # 💻 Tech Stack
 <table><tr><td valign="top" width="20%">
@@ -58,7 +58,7 @@
 <a href="https://www.facebook.com/an.nguyenduc1406" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/anduc146khmt" target="_blank">
+<a href="https://github.com/anduckhmt146" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/anduckhmt146" target="_blank">
