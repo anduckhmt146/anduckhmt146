@@ -1,6 +1,6 @@
 # **Hello, I'm Duc An**🚀 
 
-🔭 I’m currently a third-year student studying Computer Science at Bach Khoa University - HCMUT, Viet Nam. 
+🔭 I’m a third-year student studying Computer Science at Bach Khoa University - HCMUT, Viet Nam. 
 
 🌱 I’m currently learning Web Development with MERN stack and IBM Data Science Course.
 
