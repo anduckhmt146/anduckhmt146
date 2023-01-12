@@ -4,7 +4,7 @@
 
 🔭 I’m a third-year student studying Computer Science at Bach Khoa University, Viet Nam. 
 
-🌱 I’m currently learning React, Redux, Express and IBM Data Science.
+🌱 I’m currently learning React, Redux, Express and IBM Data Science Course.
 
 👯 I’m looking to collaborate on **Frontend Web Development with React**.
 
