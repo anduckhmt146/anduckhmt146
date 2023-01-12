@@ -8,8 +8,6 @@
 
 👯 I’m looking to collaborate on **Frontend Web Development with React**.
 
-❓ Ask me about anything related to MERN stack and related technologies.  
-
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
 📫 Contact me: **ducan1406@gmail.com**<br><br>
