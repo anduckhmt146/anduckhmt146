@@ -4,13 +4,15 @@
 
 🔭 I’m a third-year student studying Computer Science at Bach Khoa University - HCMUT, Viet Nam. 
 
-🌱 I’m currently learning Web Development with React and IBM Data Science Course.
+🌱 I’m currently learning React, Redux, Express and IBM Data Science Course.
+
+👯 I’m looking to collaborate on **Frontend Web Development with React**.
 
 ❓ Ask me about anything related to MERN stack and related technologies.  
 
-👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)<br><br>
+👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
-<br><br>
+📫 Contact me: **ducan1406@gmail.com**<br><br>
 
 # 💻 Tech Stack
 <table><tr><td valign="top" width="20%">
