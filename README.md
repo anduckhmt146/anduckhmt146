@@ -64,9 +64,9 @@
 <a href="https://linkedin.com/in/anduckhmt146" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="[[https://www.youtube.com/user/annguyenuc940](https://www.youtube.com/channel/UC0ItQvSS0PiH337V0ZTbCyg)](https://www.youtube.com/channel/UC0ItQvSS0PiH337V0ZTbCyg)" target="_blank">
+<a href="[https://www.youtube.com/user/annguyenuc940](https://www.youtube.com/channel/UC0ItQvSS0PiH337V0ZTbCyg)" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a> 
 
 # 📊 GitHub Stats
 <p align="center">
