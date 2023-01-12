@@ -2,7 +2,7 @@
 
 🔭 I’m a third-year student studying Computer Science at Bach Khoa University - HCMUT, Viet Nam. 
 
-🌱 I’m currently learning Web Development with ReactJS and IBM Data Science Course.
+🌱 I’m currently learning Web Development with React and IBM Data Science Course.
 
 ❓ Ask me about anything related to MERN stack and related technologies.  
 
