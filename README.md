@@ -8,7 +8,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduc146khmt)<br><br>
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 <table><tr><td valign="top" width="20%">
 
 
