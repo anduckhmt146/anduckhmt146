@@ -1,7 +1,7 @@
 # Hi, I'm Duc An 👋
 
  🔭 Currently, I am a third-year student studying Honors Program in Computer Science at HCMUT, Viet Nam. <br><br>
- 🌱 I am seeking for an internship in Fullstack Web Development and Data Science Jobs. <br><br>
+ 🌱 I am seeking for an internship in Frontend Web Development with React. <br><br>
  👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduc146khmt)<br><br>
  📫 Contact me: **ducan1406@gmail.com**<br>
 
