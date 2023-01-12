@@ -2,7 +2,7 @@
 
 🔭 I’m currently  studying Computer Science at Bach Khoa University - HCMUT, Viet Nam. 
 
-🌱 I’m currently seeking for an internship in Fullstack Web Development with MERN stack.
+🌱 I’m currently learning ReactJS, NodeJS, Express, MongoDB and IBM Data Science Course.
 
 ❓ Ask me about anything related to MERN stack and related technologies.  
 
