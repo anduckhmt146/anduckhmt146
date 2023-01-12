@@ -6,7 +6,7 @@
 
 ❓ Ask me about anything related to MERN stack and related technologies.  
 
-👨‍💻 All of my projects are available at [https://github.com/anduc146khmt](https://github.com/anduckhmt146)<br><br>
+👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)<br><br>
 
 # 💻 Tech Stack
 <table><tr><td valign="top" width="20%">
