@@ -4,7 +4,7 @@
 
 🔭 I’m a third-year student studying Computer Science at Bach Khoa University, Viet Nam. 
 
-🌱 I’m currently learning Frontend Web Development with React and IBM Data Science Course.
+🌱 I’m currently learning Frontend Web Development with React and IBM Data Science.
 
 👯 I’m seeking an internship on **Fullstack Web Development with MERN stack**.
 
