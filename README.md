@@ -6,13 +6,13 @@
 
 🌱 I’m currently learning Frontend Web Development with React and IBM Data Science.
 
-👯 I’m seeking an internship on **Frontend Web Development**.
+👯 I’m seeking an internship on **Frontend Web Development with React**.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
 📫 Contact me: **ducan1406@gmail.com**<br><br>
 
-# 💻 Tech Stack
+# 💻 Skills
 <table><tr><td valign="top" width="20%">
 
 
