@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Frontend Web Development with React and IBM Data Science.
 
-👯 I’m seeking an internship on **Fullstack Web Development with MERN stack**.
+👯 I’m seeking an internship on **Frontend Web Development**.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
