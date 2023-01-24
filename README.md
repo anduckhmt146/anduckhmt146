@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning ReactJS, React Native, TypeScript, Firebase, GraphQL.
 
-👯 I’m seeking an internship on **Software Developer (Web & Mobile), primary skills in Frontend Developer with React**.
+👯 I’m seeking an internship on **Software Developer, primary skills in Frontend Developer with React**.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
