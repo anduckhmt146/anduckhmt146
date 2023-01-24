@@ -2,7 +2,7 @@
 
 <img width="30%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-🔭 I’m a third-year student studying Computer Science at Bach Khoa University, Viet Nam. 
+🔭 I’m a third-year student studying Honors Program in Computer Science at Bach Khoa University, Viet Nam. 
 
 🌱 I’m currently learning ReactJS, React Native, TypeScript, Firebase, GraphQL.
 
