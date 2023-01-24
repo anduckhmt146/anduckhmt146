@@ -4,9 +4,9 @@
 
 🔭 I’m a third-year student studying Computer Science at Bach Khoa University, Viet Nam. 
 
-🌱 I’m currently learning Frontend Web Development with React and IBM Data Science.
+🌱 I’m currently learning Frontend Web Development and IBM Data Science.
 
-👯 I’m seeking an internship on **Frontend Web Development with React**.
+👯 I’m seeking an internship on **FullStack Web Development, primary skills in Frontend Developer with React**.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
