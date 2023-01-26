@@ -4,9 +4,9 @@
 
 🔭 I’m a third-year student studying Honors Program in Computer Science at Bach Khoa University, Viet Nam. 
 
-🌱 I’m currently learning ReactJS, React Native, TypeScript, Firebase, GraphQL.
+🌱 I’m currently learning ReactJS, React Native, Java, Golang.
 
-👯 I’m seeking an internship on **Software Developer (Web & Mobile), primary skills in Frontend Developer with React**.
+👯 I’m seeking an internship on **Software Developer (Web & Mobile)**.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
