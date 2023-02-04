@@ -4,7 +4,7 @@
 
 🔭 I’m a third-year student studying Honors Program in Computer Science at Bach Khoa University, Viet Nam. 
 
-🌱 I’m currently learning ReactJS, Material UI, Tailwind CSS, Firebase.
+🌱 I’m currently learning React, CSS Framework, Backend.
 
 👯 I’m seeking an internship on **Software Developer (Web & Mobile)**.
 
