@@ -73,7 +73,7 @@
 
 # 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anduckhmt146&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anduckhmt146&theme=yeblu&hide_border=false&include_all_commits=false&count_private=true&layout=compact" 
         alt="Picture" 
         width="494"
         height="194" 
