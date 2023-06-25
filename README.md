@@ -2,11 +2,11 @@
 
 <img width="33%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-🔭 I’m a third-year student studying Honors Program in Computer Science at Bach Khoa University, Viet Nam. 
+🔭 I’m an undergraduate student studying Honors Program in Software Engineering at Bach Khoa University, Viet Nam. 
 
-🌱 I’m currently learning ReactJS, React Native, NodeJS.
+🌱 I’m currently learning topics related to Fullstack Developer and Data Engineer.
 
-👯 I’m seeking an internship on **Software Developer (Web & Mobile)**.
+👯 I’m a Frontend Developer Intern and want to learn more about Backend Development and Data Engineering topics.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
