@@ -8,7 +8,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
-📫 Contact me: **ducan1406@gmail.com**<br>
+📫 Contact me: **anduckhmt146.se.work@gmail.com**<br>
 
 📖 Tech Blog: [https://southern-flamingo-258.notion.site/Dairy-924c841827b148f3996a0c0cf4e23c39](https://southern-flamingo-258.notion.site/Dairy-Blog-924c841827b148f3996a0c0cf4e23c39)<br><br>
 
