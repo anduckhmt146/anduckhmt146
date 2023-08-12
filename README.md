@@ -1,10 +1,10 @@
 # **Hello, I'm Duc An**🚀 
 
-🔭 I’m an undergraduate student studying Honors Program in Software Engineering at Bach Khoa University, Viet Nam. 
+🔭 Undergraduate student majoring in Software Engineering - Honors Program at Bach Khoa University, Viet Nam.
 
-🌱 I’m currently learning topics related to Fullstack Developer and Data Engineer.
+🌱 I want to explore more about Fullstack Developer, Data Engineer, and Cloud Architecture.
 
-👯 I’m a Frontend Developer Intern and want to learn more about Backend Development and Data Engineering topics.
+🕵️ Techstack: NextJS, NestJS.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
