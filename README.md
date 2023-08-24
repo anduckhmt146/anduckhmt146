@@ -4,7 +4,7 @@
 
 🌱 I want to explore more about Fullstack Developer, Data Engineer, and Cloud Architecture.
 
-🕵️ Techstack: NextJS, NestJS.
+🕵️ Techstack: ReactJS, NextJS, NodeJS, NestJS, Python.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
