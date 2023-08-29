@@ -10,7 +10,18 @@
 
 📫 Contact me: **anduckhmt146.se.work@gmail.com**<br>
 
-📖 Tech Blog: [https://southern-flamingo-258.notion.site/Dairy-924c841827b148f3996a0c0cf4e23c39](https://southern-flamingo-258.notion.site/Dairy-Blog-924c841827b148f3996a0c0cf4e23c39)<br><br>
+📖 Tech Blog: [https://southern-flamingo-258.notion.site/Dairy-924c841827b148f3996a0c0cf4e23c39](https://southern-flamingo-258.notion.site/Dairy-Blog-924c841827b148f3996a0c0cf4e23c39)<br>
+
+📚 Something note for myself:
+
+```json
+        {
+           "Learn DSA": "Learn problem-solving",
+           "Learn Tech": "Learn how to use",
+           "Learn Knowledge": "Learn how it is created"
+        }
+```
+<br>
 
 # 💻 Skills
 <table><tr><td valign="top" width="20%">
