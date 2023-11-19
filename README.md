@@ -2,7 +2,7 @@
 
 🔭 Final-year student majoring in Software Engineering - Honors Program at Bach Khoa University, Viet Nam.
 
-🌱 I want to explore more about Fullstack Developer, Data Engineer and Cloud Architecture.
+🌱 I want to explore more about Fullstack Developer and Cloud Architecture.
 
 🕵️ Techstack: ReactJS, NextJS, NodeJS, NestJS.
 
