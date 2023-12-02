@@ -1,8 +1,8 @@
 # **Hello, I'm Duc An**🚀 
 
-🔭 Final-year student majoring in Software Engineering - Honors Program at Bach Khoa University, Viet Nam.
+🔭 Final-year student majoring in Computer Sciences - Honors Program at Bach Khoa University, Viet Nam.
 
-🌱 I am learning about Fullstack Development (Fresher Level) and Cloud Infrastructure.
+🌱 I am learning about Software Engineer (Fresher Level) and Cloud Infrastructure.
 
 🕵️ Techstack: ReactJS, NextJS, NodeJS, JavaScript, TypeScript, Python, Golang.
 
