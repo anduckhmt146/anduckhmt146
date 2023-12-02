@@ -15,13 +15,13 @@
 ```json
         {
            "Learn Coding": "Learn problem-solving skills",
-           "Learn Techology": "Learn how to apply it",
+           "Learn Techology": "Learn how to apply it in projects",
            "Learn Knowledge": "Learn why it is created"
         }
 ```
 <br>
 
-📊 Now, it is not too much solved problems but it motivates me to practice coding skills:
+📊 Now, although not too many problems have been solved yet, it motivates me to practice my coding skills.
 
 * Leetcode: https://leetcode.com/ducan1406/
 * Hackerrank: https://www.hackerrank.com/profile/ducan1406
