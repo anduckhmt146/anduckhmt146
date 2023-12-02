@@ -2,7 +2,7 @@
 
 🔭 Final-year student majoring in Computer Sciences - Honors Program at Bach Khoa University, Viet Nam.
 
-🌱 I am learning about Software Engineer (Fresher Level) and Cloud Infrastructure.
+🌱 Currently, I am learning about Software Development and Cloud Infrastructure.
 
 🕵️ Techstack: ReactJS, NextJS, NodeJS, JavaScript, TypeScript, Python, Golang.
 
@@ -14,14 +14,14 @@
 
 ```json
         {
-           "Learn DSA": "Learn problem-solving",
-           "Learn Tech": "Learn how to use",
-           "Learn Knowledge": "Learn how it is created"
+           "Learn Coding": "Learn problem-solving skills",
+           "Learn Techology": "Learn how to use",
+           "Learn Knowledge": "Learn why it is created"
         }
 ```
 <br>
 
-📊 Now, it is not too much problems but it motivates me to practice coding skills:
+📊 Now, it is not too much solved problems but it motivates me to practice coding skills:
 
 * Leetcode: https://leetcode.com/ducan1406/
 * Hackerrank: https://www.hackerrank.com/profile/ducan1406
