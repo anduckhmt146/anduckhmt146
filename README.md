@@ -15,7 +15,7 @@
 ```json
         {
            "Learn Coding": "Learn problem-solving skills",
-           "Learn Techology": "Learn how to use",
+           "Learn Techology": "Learn how to apply it",
            "Learn Knowledge": "Learn why it is created"
         }
 ```
