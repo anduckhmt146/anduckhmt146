@@ -2,7 +2,7 @@
 
 🔭 Final-year student majoring in Computer Sciences - Honors Program at Bach Khoa University, Viet Nam.
 
-🌱 Currently, I am learning about Software Development and Cloud Infrastructure.
+🌱 Currently, I am learning NodeJS, Golang, AWS.
 
 🕵️ Techstack: ReactJS, NextJS, NodeJS, JavaScript, TypeScript, Python, Golang.
 
