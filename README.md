@@ -8,8 +8,6 @@
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
-✍️ Road2Junior: https://silken-beech-396.notion.site/Software-Engineer-1ba080190fab46f1a94aa7b5c9ade80d
-
 📫 Contact me: **anduckhmt146.se.work@gmail.com**<br>
 
 📚 Something note for myself:
