@@ -1,8 +1,8 @@
 # **Hello, I'm Duc An**🚀 
 
-🔭 Final-year student majoring in Computer Sciences - Honors Program at Bach Khoa University, Viet Nam.
+🔭 Final-year student majoring in Honors Program of Computer Sciences at Bach Khoa University, Viet Nam.
 
-🌱 Currently, I am learning NodeJS, Golang, AWS.
+🌱 Currently, I am learning Golang, System Design, API Design, Design Pattern.
 
 🕵️ Techstack: ReactJS, NextJS, NodeJS, JavaScript, TypeScript, Python, Golang.
 
@@ -20,12 +20,6 @@
         }
 ```
 <br>
-
-📊 Now, although not too many problems have been solved yet, it motivates me to practice my coding skills.
-
-* Leetcode: https://leetcode.com/ducan1406/
-* Hackerrank: https://www.hackerrank.com/profile/ducan1406
-* Codility: https://app.codility.com/programmers/
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
