@@ -2,7 +2,7 @@
 
 🔭 Final-year student majoring in Honors Program of Computer Sciences at Bach Khoa University, Viet Nam.
 
-🌱 Currently, I am learning Golang, System Design, API Design, Design Pattern.
+🌱 Currently, I am learning Golang, System Design.
 
 🕵️ Techstack: ReactJS, NextJS, NodeJS, JavaScript, TypeScript, Python, Golang.
 
