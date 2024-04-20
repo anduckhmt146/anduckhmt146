@@ -4,7 +4,7 @@
 
 🌱 Currently, I am a Fullstack Developer, focusing on Backend Engineering.
 
-🕵️ Ask me about Golang, Gin, gRPC, Kafka, Redis, MySQL, ReactJS, TypeScript, Redux.
+🕵️ Ask me about Golang, Gin, gRPC, Kafka, Redis, MySQL, Next, React, React Native, JavaScript, TypeScript, Redux.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
