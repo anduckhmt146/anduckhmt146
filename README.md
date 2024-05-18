@@ -8,6 +8,8 @@
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
+📚 I am currently planning to write a Gitbook for learning System Design & AWS Cloud: [https://anduckhmt146.gitbook.io/system-design](https://anduckhmt146.gitbook.io/system-design)
+
 📫 Contact me: **anduckhmt146.se.work@gmail.com**<br>
 
 # 💻 Tech Stack:
