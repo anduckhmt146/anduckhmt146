@@ -2,9 +2,9 @@
 
 🔭 Final-year student majoring in Honors Program of Computer Sciences at Bach Khoa University, Viet Nam.
 
-🌱 Currently, I am a Fullstack Developer, focusing on Backend Engineering.
+🌱 Currently, I am a Fullstack Engineer, focusing on Backend Engineering.
 
-🕵️ Ask me about Golang, Next, React, React Native, JavaScript, TypeScript.
+🕵️ Technology: Golang, Next, React, React Native, JavaScript, TypeScript, Java.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
