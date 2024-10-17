@@ -4,7 +4,7 @@
 
 🌱 Currently, I am a Fullstack Engineer, focusing on Backend Engineering.
 
-🕵️ Technology: Golang, Next, React, React Native, JavaScript, TypeScript, Java.
+🕵️ Technology: Golang, Java Spring, Next, React, React Native, JavaScript, TypeScript.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
