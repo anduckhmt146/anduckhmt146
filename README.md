@@ -1,8 +1,8 @@
 # **Hello, I'm Duc An**🚀 
 
-🔭 Final-year student majoring in Honors Program of Computer Sciences at Bach Khoa University, Viet Nam.
+🔭 Bachelor's Degree in Honors Program of Computer Science at Bach Khoa University, Vietnam.
 
-🌱 Currently, I am a Fullstack Engineer, focusing on Backend Engineering.
+🌱 Currently, I am a Software Engineer (Fullstack Developer), focusing on Backend Engineering.
 
 🕵️ Technology: Golang, Java Spring, Next, React, React Native, JavaScript, TypeScript.
 
