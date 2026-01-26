@@ -8,7 +8,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
-📚 Welcome to my blog about Technology, Philosophy, Psychology: https://anduckhmt146.site
+📚 Welcome to my blog about Technology, Philosophy, Psychology: https://anduckhmt1406.site
 
 📫 Contact me: **anduckhmt146.se.work@gmail.com**<br>
 
