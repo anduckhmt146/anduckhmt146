@@ -2,13 +2,13 @@
 
 🔭 Bachelor's Degree in Honors Program of Computer Science at Bach Khoa University, Vietnam.
 
-🌱 Currently, I am a Software Engineer (Fullstack Developer), focusing on Backend Engineering.
+🌱 Currently, I am a strong Middle Software Engineer, focusing on Backend Engineering, System Design and Decision Making.
 
-🕵️ Technology: Golang, Java Spring, Next, React, React Native, JavaScript, TypeScript.
+🕵️ Preferred Language: Golang, React, JavaScript, TypeScript.
 
 👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
 
-📚 Welcome to my blog about Technology, Philosophy, Psychology: https://anduckhmt1406.site
+📚 Welcome to my opinion blog about Technology and my thoughts: https://anduckhmt1406.site
 
 📫 Contact me: **anduckhmt146.se.work@gmail.com**<br>
 
