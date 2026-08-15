@@ -1,6 +1,6 @@
 # **Hello, I'm Duc An**🚀 
 
-🔭 Bachelor's Degree in Honors Program of Computer Science at Bach Khoa University, Vietnam.
+🔭 Bachelor's Graduation in Honors Program of Computer Science at Bach Khoa University, Vietnam.
 
 🌱 Currently, I am a strong Middle Software Engineer, focusing on Backend Engineering, System Design and Decision Making.
 
