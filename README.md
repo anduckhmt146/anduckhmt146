@@ -1,4 +1,4 @@
-# **Hello, I'm Duc An**🚀 
+# **Hello, I'm Duc An - Backend Software Engineer in Vietnam**🚀 
 
 🔭 Bachelor's Graduation in Honors Program of Computer Science at Bach Khoa University, Vietnam.
 
