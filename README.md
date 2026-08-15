@@ -6,8 +6,6 @@
 
 🕵️ Preferred Language: Golang, React, JavaScript, TypeScript.
 
-👨‍💻 All of my projects are available at [https://github.com/anduckhmt146](https://github.com/anduckhmt146)
-
 📚 Welcome to my opinion blog about Technology and my thoughts: https://anduckhmt1406.site
 
 📫 Contact me: **anduckhmt146.se.work@gmail.com**<br>
@@ -26,15 +24,6 @@
 <a href="https://linkedin.com/in/anduckhmt146" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anduckhmt146&theme=dark&hide_border=false" alt="GitHub Readme Streak Stats"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anduckhmt146&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages"/>
-
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anduc146khmt&icon=0&color=0)](https://visitcount.itsvg.in)
