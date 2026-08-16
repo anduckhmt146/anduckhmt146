@@ -2,7 +2,7 @@
 
 🔭 Bachelor's Graduation in Honors Program of Computer Science at Bach Khoa University, Vietnam.
 
-🌱 Currently, I am a Middle 3-year-experience Software Engineer, focusing on Backend Engineering, System Design and Decision Making.
+🌱 Currently, I am a strong Middle Software Engineer with 3 years of experience, focusing on Backend Engineering, System Design and Decision Making.
 
 🕵️ Preferred Language: Golang, TypeScript (React).
 
