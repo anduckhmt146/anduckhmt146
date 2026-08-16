@@ -4,7 +4,7 @@
 
 🌱 Currently, I am a strong Middle Software Engineer, focusing on Backend Engineering, System Design and Decision Making.
 
-🕵️ Preferred Language: Golang, React.
+🕵️ Preferred Language: Golang, TypeScript (React).
 
 📚 Welcome to my opinion blog about Technology and my thoughts: https://anduckhmt1406.site
 
